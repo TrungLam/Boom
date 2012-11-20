@@ -1,0 +1,7 @@
+name: Boom
+author: biyussbf
+version: 1.0.0
+main: com.github.biyussbf.Boom
+
+commands:
+ boom:
